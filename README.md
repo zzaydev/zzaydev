@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzaydev&label=Profile%20views&color=0e75b6&style=flat" alt="zzaydev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzaydev" alt="zzaydev" /></a> </p>
-
 - ⚡ Fun fact **I can speak English & Polish**
 
 <h3 align="left">Connect with me:</h3>
