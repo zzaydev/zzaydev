@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Zayd</h1>
 <h3 align="center">A frontend developer from the UK 🇬🇧</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zzaydev&" alt="zzaydev" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzaydev&label=Profile%20views&color=0e75b6&style=flat" alt="zzaydev" /> </p>
 
 - ⚡ Fun fact **I can speak English & Polish**
@@ -22,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzaydev&show_icons=true&locale=en" alt="zzaydev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zzaydev&" alt="zzaydev" /></p>
